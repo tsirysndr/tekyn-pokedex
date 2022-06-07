@@ -1,0 +1,7 @@
+fastlane_version '2.179.0'
+
+platform :ios do
+end
+
+platform :android do
+end
