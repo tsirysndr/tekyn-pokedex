@@ -9,12 +9,12 @@ const StyledText = styled.Text`
   font-family: 'Roboto_500Medium';
 `;
 
-export default function Text({ color, onPress, children }) {
+export default function Text(props) {
   const [fontsLoaded] = useFonts({ Roboto_500Medium });
   if (!fontsLoaded) {
     return null;
   }
-  return <StyledText color={color}>{children}</StyledText>;
+  return <StyledText {...props}>{props.children}</StyledText>;
 }
 
 Text.defaultProps = {

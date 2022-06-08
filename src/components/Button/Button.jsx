@@ -18,24 +18,25 @@ export const ButtonText = styled(Text)`
   font-size: 16px;
 `;
 
-export default function Button({ color, onPress, children }) {
+export default function Button(props) {
   const [fontsLoaded] = useFonts({ Roboto_700Bold });
   if (!fontsLoaded) {
     return null;
   }
-  return <Container color={color} onPress={onPress}>{children}</Container>;
+  return <Container {...props}>{props.children}</Container>;
 }
 
 Button.defaultProps = {
   children: null,
   onPress: () => {},
-  color: "fire",
+  color: "default",
 };
 
 Button.propTypes = {
   children: PropTypes.node,
   onPress: PropTypes.func,
   color: PropTypes.oneOf([
+    "default",
     "normal",
     "fire",
     "water",
