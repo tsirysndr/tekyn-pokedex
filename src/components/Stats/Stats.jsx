@@ -154,8 +154,8 @@ export default function Stats(props) {
 }
 
 Stats.defaultProps = {
-  height: 346,
-  width: 215,
+  height: 215,
+  width: 346,
   pokemonstats: [],
 };
 

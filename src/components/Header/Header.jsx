@@ -1,7 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 import { View } from "react-native";
-import styled from "@emotion/native";
+import styled, { css } from "@emotion/native";
 import DefaultText from "@Components/Text";
 import { useFonts, Roboto_700Bold } from "@expo-google-fonts/roboto";
 import BackIcon from "@Components/BackIcon";
@@ -21,6 +21,11 @@ const Container = styled.View`
   height: 50px;
   justify-content: center;
   align-items: center;
+  ${({ backgroundColor }) =>
+    backgroundColor &&
+    css`
+      background-color: ${backgroundColor};
+    `}
 `;
 
 const Separator = styled.View`
@@ -35,14 +40,14 @@ const BackButton = styled.TouchableOpacity`
   justify-content: center;
 `;
 
-export default function Header({ title, onGoBack }) {
+export default function Header({ title, onGoBack, backgroundColor }) {
   const [fontsLoaded] = useFonts({ Roboto_700Bold });
   if (!fontsLoaded) {
     return null;
   }
   return (
     <>
-      <Container>
+      <Container backgroundColor={backgroundColor}>
         <BackButton onPress={onGoBack}>
           <BackIcon height={20} width={20} />
         </BackButton>
@@ -59,6 +64,7 @@ Header.defaultProps = {
 };
 
 Header.propTypes = {
+  backgroundColor: PropTypes.string,
   title: PropTypes.string.isRequired,
   onGoBack: PropTypes.func,
 };
