@@ -3,7 +3,7 @@ import PropTypes from "prop-types";
 import { Image, View } from "react-native";
 import DefaultText from "@Components/Text";
 import { useFonts, Roboto_700Bold } from "@expo-google-fonts/roboto";
-import styled from "@emotion/native";
+import styled, { css } from "@emotion/native";
 import zeropad from "zeropad";
 import { POKEMON_IMAGE_URL } from "src/constants/urls";
 
@@ -14,12 +14,11 @@ const Container = styled.View`
 `;
 
 const Text = styled(DefaultText)`
-  font-size: 10px;
   font-family: "Roboto_700Bold";
   text-align: center;
 `;
 
-export default function Pokemon(props) {
+export default function Pokemon({ id, name, fontSize, size }) {
   const [fontsLoaded] = useFonts({ Roboto_700Bold });
   if (!fontsLoaded) {
     return null;
@@ -28,17 +27,28 @@ export default function Pokemon(props) {
   return (
     <Container>
       <Image
-        style={{ height: 56, width: 56 }}
+        style={{ height: size, width: size }}
         resizeMode="cover"
-        source={{ uri: `${POKEMON_IMAGE_URL}/${zeropad(props.id, 3)}.png` }}
+        source={{ uri: `${POKEMON_IMAGE_URL}/${zeropad(id, 3)}.png` }}
       />
-      <Text color="#264653">{format(props.id)}</Text>
-      <Text color="#264653">{props.name}</Text>
+      <Text color="#264653" style={{ fontSize }}>
+        {format(id)}
+      </Text>
+      <Text color="#264653" style={{ fontSize }}>
+        {name}
+      </Text>
     </Container>
   );
 }
 
+Pokemon.defaultProps = {
+  fontSize: 10,
+  size: 56,
+};
+
 Pokemon.propTypes = {
   id: PropTypes.number.isRequired,
   name: PropTypes.string.isRequired,
+  fontSize: PropTypes.number,
+  size: PropTypes.number,
 };
