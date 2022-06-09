@@ -3,7 +3,7 @@ import { gql } from "@apollo/client";
 export const SEARCH_POKEMON = gql`
   query SearchPokemon($name: String, $id: Int) {
     pokemon_v2_pokemon(
-      where: { _or: [{ id: { _eq: $id } }, { name: { _eq: $name } }] }
+      where: { _or: [{ id: { _eq: $id } }, { name: { _ilike: $name } }] }
     ) {
       base_experience
       height

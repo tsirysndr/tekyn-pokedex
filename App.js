@@ -9,6 +9,8 @@ import { StyleSheet } from "react-native";
 import { StatusBar } from "expo-status-bar";
 import { ThemeProvider } from "@emotion/react";
 import { theme } from "@Themes/default";
+import * as ScreenOrientation from "expo-screen-orientation";
+import { useEffect } from "react";
 
 if (__DEV__) {
   connectToDevTools({
@@ -23,6 +25,9 @@ const client = new ApolloClient({
 });
 
 function App() {
+  useEffect(() => {
+    ScreenOrientation.lockAsync(ScreenOrientation.OrientationLock.LANDSCAPE);
+  }, []);
   return (
     <ThemeProvider theme={theme}>
       <ApolloProvider client={client}>
