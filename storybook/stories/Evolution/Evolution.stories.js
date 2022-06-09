@@ -2,7 +2,7 @@ import React from "react";
 import Evolution from "@Components/Evolution";
 import { storiesOf } from "@storybook/react-native";
 import CenterView from "../CenterView";
-import { pokemon, pokemonspecies } from "./data";
+import { pokemon, pokemonspecies } from "../../../__mock__";
 import { ThemeProvider } from "@emotion/react";
 import { theme } from "@Themes/default";
 

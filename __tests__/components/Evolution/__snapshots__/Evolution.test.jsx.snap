@@ -1,0 +1,640 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the Evolution 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "flexBasis": 0,
+        "flexGrow": 1,
+        "flexShrink": 1,
+      },
+      undefined,
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "flexBasis": 0,
+          "flexDirection": "row",
+          "flexGrow": 1,
+          "flexShrink": 1,
+        },
+        undefined,
+      ]
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "flexBasis": 0,
+            "flexGrow": 1,
+            "flexShrink": 1,
+          },
+          undefined,
+        ]
+      }
+    >
+      <View
+        height={225}
+        pokemonstats={
+          Array [
+            Object {
+              "base_stat": 50,
+              "effort": 0,
+              "id": 943,
+              "pokemon_id": 158,
+              "pokemon_v2_stat": Object {
+                "name": "hp",
+              },
+              "stat_id": 1,
+            },
+            Object {
+              "base_stat": 65,
+              "effort": 1,
+              "id": 944,
+              "pokemon_id": 158,
+              "pokemon_v2_stat": Object {
+                "name": "attack",
+              },
+              "stat_id": 2,
+            },
+            Object {
+              "base_stat": 64,
+              "effort": 0,
+              "id": 945,
+              "pokemon_id": 158,
+              "pokemon_v2_stat": Object {
+                "name": "defense",
+              },
+              "stat_id": 3,
+            },
+            Object {
+              "base_stat": 44,
+              "effort": 0,
+              "id": 946,
+              "pokemon_id": 158,
+              "pokemon_v2_stat": Object {
+                "name": "special-attack",
+              },
+              "stat_id": 4,
+            },
+            Object {
+              "base_stat": 48,
+              "effort": 0,
+              "id": 947,
+              "pokemon_id": 158,
+              "pokemon_v2_stat": Object {
+                "name": "special-defense",
+              },
+              "stat_id": 5,
+            },
+            Object {
+              "base_stat": 43,
+              "effort": 0,
+              "id": 948,
+              "pokemon_id": 158,
+              "pokemon_v2_stat": Object {
+                "name": "speed",
+              },
+              "stat_id": 6,
+            },
+          ]
+        }
+        style={
+          Array [
+            Object {
+              "backgroundColor": "#c4c4c4",
+              "paddingBottom": 0,
+              "paddingLeft": 4,
+              "paddingRight": 4,
+              "paddingTop": 4,
+            },
+            Object {
+              "borderRadius": 0,
+            },
+          ]
+        }
+        width={275}
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "backgroundColor": "#fff",
+                "flexBasis": 0,
+                "flexDirection": "row",
+                "flexGrow": 1,
+                "flexShrink": 1,
+              },
+              undefined,
+            ]
+          }
+        />
+        <View
+          style={
+            Array [
+              Object {
+                "flexDirection": "row",
+              },
+              undefined,
+            ]
+          }
+        >
+          <View
+            style={
+              Array [
+                Object {
+                  "alignItems": "center",
+                  "flexBasis": 0,
+                  "flexGrow": 1,
+                  "flexShrink": 1,
+                  "height": 10,
+                  "justifyContent": "center",
+                },
+                undefined,
+              ]
+            }
+          />
+          <View
+            style={
+              Array [
+                Object {
+                  "alignItems": "center",
+                  "flexBasis": 0,
+                  "flexGrow": 1,
+                  "flexShrink": 1,
+                  "height": 10,
+                  "justifyContent": "center",
+                },
+                undefined,
+              ]
+            }
+          />
+          <View
+            style={
+              Array [
+                Object {
+                  "alignItems": "center",
+                  "flexBasis": 0,
+                  "flexGrow": 1,
+                  "flexShrink": 1,
+                  "height": 10,
+                  "justifyContent": "center",
+                },
+                undefined,
+              ]
+            }
+          />
+          <View
+            style={
+              Array [
+                Object {
+                  "alignItems": "center",
+                  "flexBasis": 0,
+                  "flexGrow": 1,
+                  "flexShrink": 1,
+                  "height": 10,
+                  "justifyContent": "center",
+                },
+                undefined,
+              ]
+            }
+          />
+          <View
+            style={
+              Array [
+                Object {
+                  "alignItems": "center",
+                  "flexBasis": 0,
+                  "flexGrow": 1,
+                  "flexShrink": 1,
+                  "height": 10,
+                  "justifyContent": "center",
+                },
+                undefined,
+              ]
+            }
+          />
+          <View
+            style={
+              Array [
+                Object {
+                  "alignItems": "center",
+                  "flexBasis": 0,
+                  "flexGrow": 1,
+                  "flexShrink": 1,
+                  "height": 10,
+                  "justifyContent": "center",
+                },
+                undefined,
+              ]
+            }
+          />
+        </View>
+      </View>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "flexBasis": 0,
+            "flexGrow": 1,
+            "flexShrink": 1,
+          },
+          undefined,
+        ]
+      }
+    >
+      <Image
+        resizeMode="cover"
+        source={
+          Object {
+            "uri": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/158.png",
+          }
+        }
+        style={
+          Object {
+            "height": 285,
+            "width": 285,
+          }
+        }
+      />
+      <View
+        style={
+          Array [
+            Object {
+              "flexDirection": "row",
+            },
+            undefined,
+          ]
+        }
+      />
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "flexBasis": 0,
+            "flexGrow": 1,
+            "flexShrink": 1,
+          },
+          undefined,
+        ]
+      }
+    >
+      <View
+        height={265}
+        style={
+          Array [
+            Object {
+              "backgroundColor": "rgba(255, 255, 255, 0.8)",
+              "borderBottomLeftRadius": 10,
+              "borderBottomRightRadius": 10,
+              "borderTopLeftRadius": 10,
+              "borderTopRightRadius": 10,
+            },
+            Object {
+              "padding": 8,
+            },
+          ]
+        }
+        width={265}
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "flexBasis": 0,
+                "flexDirection": "row",
+                "flexGrow": 0.4,
+                "flexShrink": 1,
+              },
+              undefined,
+            ]
+          }
+        />
+        <View
+          style={
+            Array [
+              Object {
+                "flexBasis": 0,
+                "flexDirection": "row",
+                "flexGrow": 0.4,
+                "flexShrink": 1,
+              },
+              undefined,
+            ]
+          }
+        />
+        <View
+          style={
+            Array [
+              Object {
+                "flexBasis": 0,
+                "flexDirection": "row",
+                "flexGrow": 0.4,
+                "flexShrink": 1,
+              },
+              undefined,
+            ]
+          }
+        />
+        <View
+          style={
+            Object {
+              "flex": 1,
+            }
+          }
+        />
+      </View>
+    </View>
+  </View>
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "flexBasis": 0,
+          "flexDirection": "row",
+          "flexGrow": 0.5,
+          "flexShrink": 1,
+          "justifyContent": "center",
+        },
+        undefined,
+      ]
+    }
+  >
+    <RCTScrollView
+      contentContainerStyle={
+        Object {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "flexGrow": 1,
+          "justifyContent": "center",
+        }
+      }
+      horizontal={true}
+      showsHorizontalScrollIndicator={false}
+    >
+      <View>
+        <View
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "justifyContent": "center",
+              },
+              undefined,
+            ]
+          }
+        >
+          <View
+            style={
+              Array [
+                Object {
+                  "flexDirection": "row",
+                },
+                undefined,
+              ]
+            }
+          >
+            <RNSVGSvgView
+              align="xMidYMid"
+              bbHeight={44.44}
+              bbWidth={30}
+              fill="none"
+              focusable={false}
+              height={44.44}
+              meetOrSlice={0}
+              minX={0}
+              minY={0}
+              style={
+                Array [
+                  Object {
+                    "backgroundColor": "transparent",
+                    "borderWidth": 0,
+                  },
+                  Object {
+                    "flex": 0,
+                    "height": 44,
+                    "width": 30,
+                  },
+                ]
+              }
+              vbHeight={80}
+              vbWidth={54}
+              width={30}
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <RNSVGGroup
+                fill={null}
+                propList={
+                  Array [
+                    "fill",
+                  ]
+                }
+              >
+                <RNSVGPath
+                  d="M49.427 30.57 22.76 3.903c-5.193-5.2-13.66-5.2-18.853 0A13.231 13.231 0 0 0 0 13.33c0 3.56 1.387 6.913 3.907 9.427l17.24 17.24-17.24 17.24A13.243 13.243 0 0 0 0 66.663c0 3.56 1.387 6.907 3.907 9.427a13.243 13.243 0 0 0 9.426 3.907c3.56 0 6.907-1.387 9.427-3.907l26.667-26.667a13.231 13.231 0 0 0 3.906-9.426c0-3.56-1.386-6.914-3.906-9.427Zm-4.714 14.14L18.047 71.377c-2.527 2.52-6.9 2.52-9.427 0a6.671 6.671 0 0 1 0-9.427l21.953-21.953L8.62 18.043a6.621 6.621 0 0 1-1.953-4.713c0-1.78.693-3.453 1.953-4.713a6.67 6.67 0 0 1 9.427-.007l26.666 26.667a6.648 6.648 0 0 1 1.954 4.72c0 1.78-.694 3.453-1.954 4.713Z"
+                  fill={4294222433}
+                  propList={
+                    Array [
+                      "fill",
+                    ]
+                  }
+                />
+              </RNSVGGroup>
+            </RNSVGSvgView>
+            <RNSVGSvgView
+              align="xMidYMid"
+              bbHeight={44.44}
+              bbWidth={30}
+              fill="none"
+              focusable={false}
+              height={44.44}
+              meetOrSlice={0}
+              minX={0}
+              minY={0}
+              style={
+                Array [
+                  Object {
+                    "backgroundColor": "transparent",
+                    "borderWidth": 0,
+                  },
+                  Object {
+                    "flex": 0,
+                    "height": 44,
+                    "width": 30,
+                  },
+                ]
+              }
+              vbHeight={80}
+              vbWidth={54}
+              width={30}
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <RNSVGGroup
+                fill={null}
+                propList={
+                  Array [
+                    "fill",
+                  ]
+                }
+              >
+                <RNSVGPath
+                  d="M49.427 30.57 22.76 3.903c-5.193-5.2-13.66-5.2-18.853 0A13.231 13.231 0 0 0 0 13.33c0 3.56 1.387 6.913 3.907 9.427l17.24 17.24-17.24 17.24A13.243 13.243 0 0 0 0 66.663c0 3.56 1.387 6.907 3.907 9.427a13.243 13.243 0 0 0 9.426 3.907c3.56 0 6.907-1.387 9.427-3.907l26.667-26.667a13.231 13.231 0 0 0 3.906-9.426c0-3.56-1.386-6.914-3.906-9.427Zm-4.714 14.14L18.047 71.377c-2.527 2.52-6.9 2.52-9.427 0a6.671 6.671 0 0 1 0-9.427l21.953-21.953L8.62 18.043a6.621 6.621 0 0 1-1.953-4.713c0-1.78.693-3.453 1.953-4.713a6.67 6.67 0 0 1 9.427-.007l26.666 26.667a6.648 6.648 0 0 1 1.954 4.72c0 1.78-.694 3.453-1.954 4.713Z"
+                  fill={4294222433}
+                  propList={
+                    Array [
+                      "fill",
+                    ]
+                  }
+                />
+              </RNSVGGroup>
+            </RNSVGSvgView>
+          </View>
+        </View>
+        <View
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "justifyContent": "center",
+              },
+              undefined,
+            ]
+          }
+        >
+          <View
+            style={
+              Array [
+                Object {
+                  "flexDirection": "row",
+                },
+                undefined,
+              ]
+            }
+          >
+            <RNSVGSvgView
+              align="xMidYMid"
+              bbHeight={44.44}
+              bbWidth={30}
+              fill="none"
+              focusable={false}
+              height={44.44}
+              meetOrSlice={0}
+              minX={0}
+              minY={0}
+              style={
+                Array [
+                  Object {
+                    "backgroundColor": "transparent",
+                    "borderWidth": 0,
+                  },
+                  Object {
+                    "flex": 0,
+                    "height": 44,
+                    "width": 30,
+                  },
+                ]
+              }
+              vbHeight={80}
+              vbWidth={54}
+              width={30}
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <RNSVGGroup
+                fill={null}
+                propList={
+                  Array [
+                    "fill",
+                  ]
+                }
+              >
+                <RNSVGPath
+                  d="M49.427 30.57 22.76 3.903c-5.193-5.2-13.66-5.2-18.853 0A13.231 13.231 0 0 0 0 13.33c0 3.56 1.387 6.913 3.907 9.427l17.24 17.24-17.24 17.24A13.243 13.243 0 0 0 0 66.663c0 3.56 1.387 6.907 3.907 9.427a13.243 13.243 0 0 0 9.426 3.907c3.56 0 6.907-1.387 9.427-3.907l26.667-26.667a13.231 13.231 0 0 0 3.906-9.426c0-3.56-1.386-6.914-3.906-9.427Zm-4.714 14.14L18.047 71.377c-2.527 2.52-6.9 2.52-9.427 0a6.671 6.671 0 0 1 0-9.427l21.953-21.953L8.62 18.043a6.621 6.621 0 0 1-1.953-4.713c0-1.78.693-3.453 1.953-4.713a6.67 6.67 0 0 1 9.427-.007l26.666 26.667a6.648 6.648 0 0 1 1.954 4.72c0 1.78-.694 3.453-1.954 4.713Z"
+                  fill={4294222433}
+                  propList={
+                    Array [
+                      "fill",
+                    ]
+                  }
+                />
+              </RNSVGGroup>
+            </RNSVGSvgView>
+            <RNSVGSvgView
+              align="xMidYMid"
+              bbHeight={44.44}
+              bbWidth={30}
+              fill="none"
+              focusable={false}
+              height={44.44}
+              meetOrSlice={0}
+              minX={0}
+              minY={0}
+              style={
+                Array [
+                  Object {
+                    "backgroundColor": "transparent",
+                    "borderWidth": 0,
+                  },
+                  Object {
+                    "flex": 0,
+                    "height": 44,
+                    "width": 30,
+                  },
+                ]
+              }
+              vbHeight={80}
+              vbWidth={54}
+              width={30}
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <RNSVGGroup
+                fill={null}
+                propList={
+                  Array [
+                    "fill",
+                  ]
+                }
+              >
+                <RNSVGPath
+                  d="M49.427 30.57 22.76 3.903c-5.193-5.2-13.66-5.2-18.853 0A13.231 13.231 0 0 0 0 13.33c0 3.56 1.387 6.913 3.907 9.427l17.24 17.24-17.24 17.24A13.243 13.243 0 0 0 0 66.663c0 3.56 1.387 6.907 3.907 9.427a13.243 13.243 0 0 0 9.426 3.907c3.56 0 6.907-1.387 9.427-3.907l26.667-26.667a13.231 13.231 0 0 0 3.906-9.426c0-3.56-1.386-6.914-3.906-9.427Zm-4.714 14.14L18.047 71.377c-2.527 2.52-6.9 2.52-9.427 0a6.671 6.671 0 0 1 0-9.427l21.953-21.953L8.62 18.043a6.621 6.621 0 0 1-1.953-4.713c0-1.78.693-3.453 1.953-4.713a6.67 6.67 0 0 1 9.427-.007l26.666 26.667a6.648 6.648 0 0 1 1.954 4.72c0 1.78-.694 3.453-1.954 4.713Z"
+                  fill={4294222433}
+                  propList={
+                    Array [
+                      "fill",
+                    ]
+                  }
+                />
+              </RNSVGGroup>
+            </RNSVGSvgView>
+          </View>
+        </View>
+        <View
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "justifyContent": "center",
+              },
+              undefined,
+            ]
+          }
+        />
+      </View>
+    </RCTScrollView>
+  </View>
+</View>
+`;

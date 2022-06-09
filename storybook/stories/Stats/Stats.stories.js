@@ -2,7 +2,7 @@ import React from "react";
 import Stats from "@Components/Stats";
 import { storiesOf } from "@storybook/react-native";
 import CenterView from "../CenterView";
-import { pokemonstats } from "./data";
+import { pokemonstats } from "../../../__mock__";
 
 storiesOf("Stats", module)
   .addDecorator((getStory) => <CenterView>{getStory()}</CenterView>)

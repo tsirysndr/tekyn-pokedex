@@ -8,7 +8,8 @@
     "web": "expo start --web",
     "eject": "expo eject",
     "storybook": "APP_ENV=storybook expo start --dev-client -c",
-    "build-storybook": "build-storybook "
+    "build-storybook": "build-storybook",
+    "test": "jest --coverage --silent"
   },
   "dependencies": {
     "@apollo/client": "^3.6.6",
@@ -51,22 +52,16 @@
     "@storybook/react-native": "^5.3.25",
     "@storybook/react-native-server": "^5.3.23",
     "@svgr/cli": "^6.2.1",
+    "@testing-library/jest-native": "^4.0.5",
     "@testing-library/react-native": "^9.1.0",
+    "babel-jest": "^28.1.1",
     "babel-loader": "^8.2.5",
     "babel-plugin-module-resolver": "^4.1.0",
     "expo-community-flipper": "^45.1.0",
-    "jest": "^28.1.0",
+    "jest": "27",
+    "jest-expo": "^45.0.1",
     "react-native-dotenv": "^3.3.1",
     "react-native-flipper": "^0.146.1"
   },
-  "private": true,
-  "jest": {
-    "preset": "jest-expo",
-    "transformIgnorePatterns": [
-      "node_modules/(?!(jest-)?react-native|react-clone-referenced-element|@react-native-community|expo(nent)?|@expo(nent)?/.*|react-navigation|@react-navigation/.*|@unimodules/.*|unimodules|sentry-expo|native-base)"
-    ],
-    "setupFilesAfterEnv": [
-      "<rootDir>/__mocks__/globalMock.js"
-    ]
-  }
+  "private": true
 }

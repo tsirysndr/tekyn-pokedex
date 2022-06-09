@@ -4,6 +4,7 @@ import { View } from "react-native";
 import styled from "@emotion/native";
 import Text from "@Components/Text";
 import Card from "@Components/Card";
+import _ from "lodash";
 
 const SmallText = styled(Text)`
   font-family: "Roboto_700Bold";

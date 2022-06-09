@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the Card 1`] = `
+<View
+  height={317}
+  style={
+    Array [
+      Object {
+        "backgroundColor": "rgba(255, 255, 255, 0.8)",
+        "borderBottomLeftRadius": 10,
+        "borderBottomRightRadius": 10,
+        "borderTopLeftRadius": 10,
+        "borderTopRightRadius": 10,
+      },
+      undefined,
+    ]
+  }
+  width={300}
+/>
+`;

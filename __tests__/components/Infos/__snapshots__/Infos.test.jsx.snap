@@ -1,0 +1,69 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the Infos 1`] = `
+<View
+  height={137}
+  style={
+    Array [
+      Object {
+        "backgroundColor": "rgba(255, 255, 255, 0.8)",
+        "borderBottomLeftRadius": 10,
+        "borderBottomRightRadius": 10,
+        "borderTopLeftRadius": 10,
+        "borderTopRightRadius": 10,
+      },
+      Object {
+        "padding": 8,
+      },
+    ]
+  }
+  width={137}
+>
+  <View
+    style={
+      Array [
+        Object {
+          "flexBasis": 0,
+          "flexDirection": "row",
+          "flexGrow": 0.4,
+          "flexShrink": 1,
+        },
+        undefined,
+      ]
+    }
+  />
+  <View
+    style={
+      Array [
+        Object {
+          "flexBasis": 0,
+          "flexDirection": "row",
+          "flexGrow": 0.4,
+          "flexShrink": 1,
+        },
+        undefined,
+      ]
+    }
+  />
+  <View
+    style={
+      Array [
+        Object {
+          "flexBasis": 0,
+          "flexDirection": "row",
+          "flexGrow": 0.4,
+          "flexShrink": 1,
+        },
+        undefined,
+      ]
+    }
+  />
+  <View
+    style={
+      Object {
+        "flex": 1,
+      }
+    }
+  />
+</View>
+`;

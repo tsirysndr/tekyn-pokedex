@@ -1,0 +1,53 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the SearchForm 1`] = `
+<View
+  height={317}
+  style={
+    Array [
+      Object {
+        "backgroundColor": "rgba(255, 255, 255, 0.8)",
+        "borderBottomLeftRadius": 10,
+        "borderBottomRightRadius": 10,
+        "borderTopLeftRadius": 10,
+        "borderTopRightRadius": 10,
+      },
+      Array [
+        Object {
+          "alignItems": "center",
+          "justifyContent": "center",
+        },
+        undefined,
+      ],
+    ]
+  }
+  width={300}
+>
+  <Image
+    source={1}
+    style={
+      Array [
+        Object {
+          "height": 50,
+          "marginBottom": 30,
+          "width": 50,
+        },
+        undefined,
+      ]
+    }
+  />
+  <View
+    style={
+      Array [
+        Object {
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+          "marginTop": 25,
+          "width": 250,
+        },
+        undefined,
+      ]
+    }
+  />
+</View>
+`;
