@@ -75,7 +75,11 @@ const PokemonImageWrapper = styled.View`
 `;
 
 export default function Evolution(props) {
-  const imgSize = (Dimensions.get("window").height * 38) / 100;
+  const height =
+    Dimensions.get("window").height > Dimensions.get("window").width
+      ? Dimensions.get("window").width
+      : Dimensions.get("window").height;
+  const imgSize = (height * 38) / 100;
   const statsSize = imgSize - 10;
   const infosSize = imgSize - 20;
 

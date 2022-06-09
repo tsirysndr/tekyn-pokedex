@@ -15,8 +15,7 @@ const TextRow = styled.View`
   flex: 0.4;
 `;
 
-
-export default function Infos({ pokemon, pokemonSpecies,size }) {
+export default function Infos({ pokemon, pokemonSpecies, size }) {
   return (
     <Card height={size} width={size} style={{ padding: 8 }}>
       <TextRow>
