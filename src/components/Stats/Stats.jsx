@@ -32,8 +32,12 @@ const Indicators = styled.View`
 `;
 
 const Text = styled(DefaultText)`
-  font-family: "Roboto_700Bold";
   font-size: 6px;
+  ${({ fontsLoaded }) =>
+    fontsLoaded &&
+    css`
+      font-family: "Roboto_700Bold";
+    `}
 `;
 
 const Centered = styled.View`
@@ -50,10 +54,6 @@ const WhiteBrackground = styled.View`
 `;
 
 const Level = ({ value }) => {
-  const [fontsLoaded] = useFonts({ Roboto_700Bold });
-  if (!fontsLoaded) {
-    return null;
-  }
   return (
     <View style={{ flex: 1 }}>
       <Cell active={value >= 15}></Cell>
@@ -84,6 +84,7 @@ Level.propTypes = {
 };
 
 export default function Stats(props) {
+  const [fontsLoaded] = useFonts({ Roboto_700Bold });
   const computeValue = (x) => Math.floor(_.get(x, "base_stat", 0) / 10);
   return (
     <Container {...props}>
@@ -131,22 +132,34 @@ export default function Stats(props) {
       </WhiteBrackground>
       <Indicators>
         <Centered>
-          <Text color="#000">HP</Text>
+          <Text fontsLoaded={fontsLoaded} color="#000">
+            HP
+          </Text>
         </Centered>
         <Centered>
-          <Text color="#000">Atack</Text>
+          <Text fontsLoaded={fontsLoaded} color="#000">
+            Atack
+          </Text>
         </Centered>
         <Centered>
-          <Text color="#000">Defense</Text>
+          <Text fontsLoaded={fontsLoaded} color="#000">
+            Defense
+          </Text>
         </Centered>
         <Centered>
-          <Text color="#000">Spe A</Text>
+          <Text fontsLoaded={fontsLoaded} color="#000">
+            Spe A
+          </Text>
         </Centered>
         <Centered>
-          <Text color="#000">Spe D</Text>
+          <Text fontsLoaded={fontsLoaded} color="#000">
+            Spe D
+          </Text>
         </Centered>
         <Centered>
-          <Text color="#000">Speed</Text>
+          <Text fontsLoaded={fontsLoaded} color="#000">
+            Speed
+          </Text>
         </Centered>
       </Indicators>
     </Container>

@@ -3,7 +3,7 @@
 exports[`renders TextField 1`] = `
 <View>
   <TextInput
-    fontsLoaded={true}
+    fontsLoaded={false}
     onChangeText={[Function]}
     placeholderTextColor="#fff"
     style={
@@ -15,7 +15,6 @@ exports[`renders TextField 1`] = `
           "borderTopLeftRadius": 4,
           "borderTopRightRadius": 4,
           "color": "#000",
-          "fontFamily": "Roboto_700Bold",
           "height": 50,
           "paddingBottom": 10,
           "paddingLeft": 10,

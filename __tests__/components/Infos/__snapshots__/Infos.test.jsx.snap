@@ -31,7 +31,51 @@ exports[`renders the Infos 1`] = `
         undefined,
       ]
     }
-  />
+  >
+    <Text
+      color="#264653"
+      fontsLoaded={false}
+      style={
+        Array [
+          Object {
+            "color": "#264653",
+          },
+          Array [
+            Object {
+              "fontFamily": "Roboto_700Bold",
+              "fontSize": 8,
+            },
+            Object {
+              "flex": 1,
+            },
+          ],
+        ]
+      }
+    >
+      Weight
+    </Text>
+    <Text
+      color="#E76F51"
+      fontsLoaded={false}
+      style={
+        Array [
+          Object {
+            "color": "#E76F51",
+          },
+          Array [
+            Object {
+              "fontFamily": "Roboto_700Bold",
+              "fontSize": 8,
+            },
+            undefined,
+          ],
+        ]
+      }
+    >
+      9.5
+       kg
+    </Text>
+  </View>
   <View
     style={
       Array [
@@ -44,7 +88,51 @@ exports[`renders the Infos 1`] = `
         undefined,
       ]
     }
-  />
+  >
+    <Text
+      color="#264653"
+      fontsLoaded={false}
+      style={
+        Array [
+          Object {
+            "color": "#264653",
+          },
+          Array [
+            Object {
+              "fontFamily": "Roboto_700Bold",
+              "fontSize": 8,
+            },
+            Object {
+              "flex": 1,
+            },
+          ],
+        ]
+      }
+    >
+      Height
+    </Text>
+    <Text
+      color="#E76F51"
+      fontsLoaded={false}
+      style={
+        Array [
+          Object {
+            "color": "#E76F51",
+          },
+          Array [
+            Object {
+              "fontFamily": "Roboto_700Bold",
+              "fontSize": 8,
+            },
+            undefined,
+          ],
+        ]
+      }
+    >
+      0.6
+       m
+    </Text>
+  </View>
   <View
     style={
       Array [
@@ -57,13 +145,109 @@ exports[`renders the Infos 1`] = `
         undefined,
       ]
     }
-  />
+  >
+    <Text
+      color="#264653"
+      fontsLoaded={false}
+      style={
+        Array [
+          Object {
+            "color": "#264653",
+          },
+          Array [
+            Object {
+              "fontFamily": "Roboto_700Bold",
+              "fontSize": 8,
+            },
+            Object {
+              "minWidth": 32,
+            },
+          ],
+        ]
+      }
+    >
+      Abilities
+    </Text>
+    <Text
+      color="#E76F51"
+      fontsLoaded={false}
+      style={
+        Array [
+          Object {
+            "color": "#E76F51",
+          },
+          Array [
+            Object {
+              "fontFamily": "Roboto_700Bold",
+              "fontSize": 8,
+            },
+            Object {
+              "flex": 1,
+              "textAlign": "right",
+            },
+          ],
+        ]
+      }
+    >
+      torrent, sheer-force
+    </Text>
+  </View>
   <View
     style={
       Object {
         "flex": 1,
       }
     }
-  />
+  >
+    <Text
+      color="#264653"
+      fontsLoaded={false}
+      style={
+        Array [
+          Object {
+            "color": "#264653",
+          },
+          Array [
+            Object {
+              "fontFamily": "Roboto_700Bold",
+              "fontSize": 8,
+            },
+            Object {
+              "marginBottom": 5,
+            },
+          ],
+        ]
+      }
+    >
+      Description
+    </Text>
+    <Text
+      color="#E76F51"
+      fontsLoaded={false}
+      numberOfLines={4}
+      style={
+        Array [
+          Object {
+            "color": "#E76F51",
+          },
+          Array [
+            Object {
+              "fontFamily": "Roboto_700Bold",
+              "fontSize": 8,
+            },
+            Object {
+              "textAlign": "center",
+            },
+          ],
+        ]
+      }
+    >
+      Its well-developed
+jaws are powerful
+and capable ofcrushing anything.
+Even its trainer
+must be careful.
+    </Text>
+  </View>
 </View>
 `;

@@ -135,7 +135,1615 @@ exports[`renders the Evolution 1`] = `
               undefined,
             ]
           }
-        />
+        >
+          <View
+            style={
+              Object {
+                "flex": 1,
+              }
+            }
+          >
+            <View
+              active={false}
+              style={
+                Array [
+                  Object {
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={false}
+              style={
+                Array [
+                  Object {
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={false}
+              style={
+                Array [
+                  Object {
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={false}
+              style={
+                Array [
+                  Object {
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={false}
+              style={
+                Array [
+                  Object {
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={false}
+              style={
+                Array [
+                  Object {
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={false}
+              style={
+                Array [
+                  Object {
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={false}
+              style={
+                Array [
+                  Object {
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={false}
+              style={
+                Array [
+                  Object {
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={false}
+              style={
+                Array [
+                  Object {
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={true}
+              style={
+                Array [
+                  Object {
+                    "backgroundColor": "#38a8d5",
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={true}
+              style={
+                Array [
+                  Object {
+                    "backgroundColor": "#38a8d5",
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={true}
+              style={
+                Array [
+                  Object {
+                    "backgroundColor": "#38a8d5",
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={true}
+              style={
+                Array [
+                  Object {
+                    "backgroundColor": "#38a8d5",
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={true}
+              style={
+                Array [
+                  Object {
+                    "backgroundColor": "#38a8d5",
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+          </View>
+          <View
+            style={
+              Object {
+                "flex": 1,
+              }
+            }
+          >
+            <View
+              active={false}
+              style={
+                Array [
+                  Object {
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={false}
+              style={
+                Array [
+                  Object {
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={false}
+              style={
+                Array [
+                  Object {
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={false}
+              style={
+                Array [
+                  Object {
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={false}
+              style={
+                Array [
+                  Object {
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={false}
+              style={
+                Array [
+                  Object {
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={false}
+              style={
+                Array [
+                  Object {
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={false}
+              style={
+                Array [
+                  Object {
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={false}
+              style={
+                Array [
+                  Object {
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={true}
+              style={
+                Array [
+                  Object {
+                    "backgroundColor": "#38a8d5",
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={true}
+              style={
+                Array [
+                  Object {
+                    "backgroundColor": "#38a8d5",
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={true}
+              style={
+                Array [
+                  Object {
+                    "backgroundColor": "#38a8d5",
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={true}
+              style={
+                Array [
+                  Object {
+                    "backgroundColor": "#38a8d5",
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={true}
+              style={
+                Array [
+                  Object {
+                    "backgroundColor": "#38a8d5",
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={true}
+              style={
+                Array [
+                  Object {
+                    "backgroundColor": "#38a8d5",
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+          </View>
+          <View
+            style={
+              Object {
+                "flex": 1,
+              }
+            }
+          >
+            <View
+              active={false}
+              style={
+                Array [
+                  Object {
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={false}
+              style={
+                Array [
+                  Object {
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={false}
+              style={
+                Array [
+                  Object {
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={false}
+              style={
+                Array [
+                  Object {
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={false}
+              style={
+                Array [
+                  Object {
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={false}
+              style={
+                Array [
+                  Object {
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={false}
+              style={
+                Array [
+                  Object {
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={false}
+              style={
+                Array [
+                  Object {
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={false}
+              style={
+                Array [
+                  Object {
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={true}
+              style={
+                Array [
+                  Object {
+                    "backgroundColor": "#38a8d5",
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={true}
+              style={
+                Array [
+                  Object {
+                    "backgroundColor": "#38a8d5",
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={true}
+              style={
+                Array [
+                  Object {
+                    "backgroundColor": "#38a8d5",
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={true}
+              style={
+                Array [
+                  Object {
+                    "backgroundColor": "#38a8d5",
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={true}
+              style={
+                Array [
+                  Object {
+                    "backgroundColor": "#38a8d5",
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={true}
+              style={
+                Array [
+                  Object {
+                    "backgroundColor": "#38a8d5",
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+          </View>
+          <View
+            style={
+              Object {
+                "flex": 1,
+              }
+            }
+          >
+            <View
+              active={false}
+              style={
+                Array [
+                  Object {
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={false}
+              style={
+                Array [
+                  Object {
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={false}
+              style={
+                Array [
+                  Object {
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={false}
+              style={
+                Array [
+                  Object {
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={false}
+              style={
+                Array [
+                  Object {
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={false}
+              style={
+                Array [
+                  Object {
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={false}
+              style={
+                Array [
+                  Object {
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={false}
+              style={
+                Array [
+                  Object {
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={false}
+              style={
+                Array [
+                  Object {
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={false}
+              style={
+                Array [
+                  Object {
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={false}
+              style={
+                Array [
+                  Object {
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={true}
+              style={
+                Array [
+                  Object {
+                    "backgroundColor": "#38a8d5",
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={true}
+              style={
+                Array [
+                  Object {
+                    "backgroundColor": "#38a8d5",
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={true}
+              style={
+                Array [
+                  Object {
+                    "backgroundColor": "#38a8d5",
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={true}
+              style={
+                Array [
+                  Object {
+                    "backgroundColor": "#38a8d5",
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+          </View>
+          <View
+            style={
+              Object {
+                "flex": 1,
+              }
+            }
+          >
+            <View
+              active={false}
+              style={
+                Array [
+                  Object {
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={false}
+              style={
+                Array [
+                  Object {
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={false}
+              style={
+                Array [
+                  Object {
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={false}
+              style={
+                Array [
+                  Object {
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={false}
+              style={
+                Array [
+                  Object {
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={false}
+              style={
+                Array [
+                  Object {
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={false}
+              style={
+                Array [
+                  Object {
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={false}
+              style={
+                Array [
+                  Object {
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={false}
+              style={
+                Array [
+                  Object {
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={false}
+              style={
+                Array [
+                  Object {
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={false}
+              style={
+                Array [
+                  Object {
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={true}
+              style={
+                Array [
+                  Object {
+                    "backgroundColor": "#38a8d5",
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={true}
+              style={
+                Array [
+                  Object {
+                    "backgroundColor": "#38a8d5",
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={true}
+              style={
+                Array [
+                  Object {
+                    "backgroundColor": "#38a8d5",
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={true}
+              style={
+                Array [
+                  Object {
+                    "backgroundColor": "#38a8d5",
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+          </View>
+          <View
+            style={
+              Object {
+                "flex": 1,
+              }
+            }
+          >
+            <View
+              active={false}
+              style={
+                Array [
+                  Object {
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={false}
+              style={
+                Array [
+                  Object {
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={false}
+              style={
+                Array [
+                  Object {
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={false}
+              style={
+                Array [
+                  Object {
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={false}
+              style={
+                Array [
+                  Object {
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={false}
+              style={
+                Array [
+                  Object {
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={false}
+              style={
+                Array [
+                  Object {
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={false}
+              style={
+                Array [
+                  Object {
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={false}
+              style={
+                Array [
+                  Object {
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={false}
+              style={
+                Array [
+                  Object {
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={false}
+              style={
+                Array [
+                  Object {
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={true}
+              style={
+                Array [
+                  Object {
+                    "backgroundColor": "#38a8d5",
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={true}
+              style={
+                Array [
+                  Object {
+                    "backgroundColor": "#38a8d5",
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={true}
+              style={
+                Array [
+                  Object {
+                    "backgroundColor": "#38a8d5",
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+            <View
+              active={true}
+              style={
+                Array [
+                  Object {
+                    "backgroundColor": "#38a8d5",
+                    "borderBottomColor": "#c4c4c4",
+                    "borderBottomWidth": 0.5,
+                    "borderRightColor": "#c4c4c4",
+                    "borderRightWidth": 0.2,
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                  },
+                  undefined,
+                ]
+              }
+            />
+          </View>
+        </View>
         <View
           style={
             Array [
@@ -160,7 +1768,27 @@ exports[`renders the Evolution 1`] = `
                 undefined,
               ]
             }
-          />
+          >
+            <Text
+              color="#000"
+              fontsLoaded={false}
+              style={
+                Array [
+                  Object {
+                    "color": "#000",
+                  },
+                  Array [
+                    Object {
+                      "fontSize": 6,
+                    },
+                    undefined,
+                  ],
+                ]
+              }
+            >
+              HP
+            </Text>
+          </View>
           <View
             style={
               Array [
@@ -175,7 +1803,27 @@ exports[`renders the Evolution 1`] = `
                 undefined,
               ]
             }
-          />
+          >
+            <Text
+              color="#000"
+              fontsLoaded={false}
+              style={
+                Array [
+                  Object {
+                    "color": "#000",
+                  },
+                  Array [
+                    Object {
+                      "fontSize": 6,
+                    },
+                    undefined,
+                  ],
+                ]
+              }
+            >
+              Atack
+            </Text>
+          </View>
           <View
             style={
               Array [
@@ -190,7 +1838,27 @@ exports[`renders the Evolution 1`] = `
                 undefined,
               ]
             }
-          />
+          >
+            <Text
+              color="#000"
+              fontsLoaded={false}
+              style={
+                Array [
+                  Object {
+                    "color": "#000",
+                  },
+                  Array [
+                    Object {
+                      "fontSize": 6,
+                    },
+                    undefined,
+                  ],
+                ]
+              }
+            >
+              Defense
+            </Text>
+          </View>
           <View
             style={
               Array [
@@ -205,7 +1873,27 @@ exports[`renders the Evolution 1`] = `
                 undefined,
               ]
             }
-          />
+          >
+            <Text
+              color="#000"
+              fontsLoaded={false}
+              style={
+                Array [
+                  Object {
+                    "color": "#000",
+                  },
+                  Array [
+                    Object {
+                      "fontSize": 6,
+                    },
+                    undefined,
+                  ],
+                ]
+              }
+            >
+              Spe A
+            </Text>
+          </View>
           <View
             style={
               Array [
@@ -220,7 +1908,27 @@ exports[`renders the Evolution 1`] = `
                 undefined,
               ]
             }
-          />
+          >
+            <Text
+              color="#000"
+              fontsLoaded={false}
+              style={
+                Array [
+                  Object {
+                    "color": "#000",
+                  },
+                  Array [
+                    Object {
+                      "fontSize": 6,
+                    },
+                    undefined,
+                  ],
+                ]
+              }
+            >
+              Spe D
+            </Text>
+          </View>
           <View
             style={
               Array [
@@ -235,7 +1943,27 @@ exports[`renders the Evolution 1`] = `
                 undefined,
               ]
             }
-          />
+          >
+            <Text
+              color="#000"
+              fontsLoaded={false}
+              style={
+                Array [
+                  Object {
+                    "color": "#000",
+                  },
+                  Array [
+                    Object {
+                      "fontSize": 6,
+                    },
+                    undefined,
+                  ],
+                ]
+              }
+            >
+              Speed
+            </Text>
+          </View>
         </View>
       </View>
     </View>
@@ -279,7 +2007,7 @@ exports[`renders the Evolution 1`] = `
         <View
           accessible={true}
           collapsable={false}
-          focusable={true}
+          focusable={false}
           onClick={[Function]}
           onResponderGrant={[Function]}
           onResponderMove={[Function]}
@@ -299,10 +2027,31 @@ exports[`renders the Evolution 1`] = `
               "justifyContent": "center",
               "marginRight": 15,
               "opacity": 1,
-              "width": 70,
+              "width": 80,
             }
           }
-        />
+        >
+          <Text
+            color="#fff"
+            fontsLoaded={false}
+            style={
+              Array [
+                Object {
+                  "color": "#fff",
+                },
+                Array [
+                  Object {
+                    "fontFamily": "Roboto_700Bold",
+                    "fontSize": 14,
+                  },
+                  undefined,
+                ],
+              ]
+            }
+          >
+            Water
+          </Text>
+        </View>
       </View>
     </View>
     <View
@@ -348,7 +2097,51 @@ exports[`renders the Evolution 1`] = `
               undefined,
             ]
           }
-        />
+        >
+          <Text
+            color="#264653"
+            fontsLoaded={false}
+            style={
+              Array [
+                Object {
+                  "color": "#264653",
+                },
+                Array [
+                  Object {
+                    "fontFamily": "Roboto_700Bold",
+                    "fontSize": 8,
+                  },
+                  Object {
+                    "flex": 1,
+                  },
+                ],
+              ]
+            }
+          >
+            Weight
+          </Text>
+          <Text
+            color="#E76F51"
+            fontsLoaded={false}
+            style={
+              Array [
+                Object {
+                  "color": "#E76F51",
+                },
+                Array [
+                  Object {
+                    "fontFamily": "Roboto_700Bold",
+                    "fontSize": 8,
+                  },
+                  undefined,
+                ],
+              ]
+            }
+          >
+            9.5
+             kg
+          </Text>
+        </View>
         <View
           style={
             Array [
@@ -361,7 +2154,51 @@ exports[`renders the Evolution 1`] = `
               undefined,
             ]
           }
-        />
+        >
+          <Text
+            color="#264653"
+            fontsLoaded={false}
+            style={
+              Array [
+                Object {
+                  "color": "#264653",
+                },
+                Array [
+                  Object {
+                    "fontFamily": "Roboto_700Bold",
+                    "fontSize": 8,
+                  },
+                  Object {
+                    "flex": 1,
+                  },
+                ],
+              ]
+            }
+          >
+            Height
+          </Text>
+          <Text
+            color="#E76F51"
+            fontsLoaded={false}
+            style={
+              Array [
+                Object {
+                  "color": "#E76F51",
+                },
+                Array [
+                  Object {
+                    "fontFamily": "Roboto_700Bold",
+                    "fontSize": 8,
+                  },
+                  undefined,
+                ],
+              ]
+            }
+          >
+            0.6
+             m
+          </Text>
+        </View>
         <View
           style={
             Array [
@@ -374,14 +2211,110 @@ exports[`renders the Evolution 1`] = `
               undefined,
             ]
           }
-        />
+        >
+          <Text
+            color="#264653"
+            fontsLoaded={false}
+            style={
+              Array [
+                Object {
+                  "color": "#264653",
+                },
+                Array [
+                  Object {
+                    "fontFamily": "Roboto_700Bold",
+                    "fontSize": 8,
+                  },
+                  Object {
+                    "minWidth": 32,
+                  },
+                ],
+              ]
+            }
+          >
+            Abilities
+          </Text>
+          <Text
+            color="#E76F51"
+            fontsLoaded={false}
+            style={
+              Array [
+                Object {
+                  "color": "#E76F51",
+                },
+                Array [
+                  Object {
+                    "fontFamily": "Roboto_700Bold",
+                    "fontSize": 8,
+                  },
+                  Object {
+                    "flex": 1,
+                    "textAlign": "right",
+                  },
+                ],
+              ]
+            }
+          >
+            torrent, sheer-force
+          </Text>
+        </View>
         <View
           style={
             Object {
               "flex": 1,
             }
           }
-        />
+        >
+          <Text
+            color="#264653"
+            fontsLoaded={false}
+            style={
+              Array [
+                Object {
+                  "color": "#264653",
+                },
+                Array [
+                  Object {
+                    "fontFamily": "Roboto_700Bold",
+                    "fontSize": 8,
+                  },
+                  Object {
+                    "marginBottom": 5,
+                  },
+                ],
+              ]
+            }
+          >
+            Description
+          </Text>
+          <Text
+            color="#E76F51"
+            fontsLoaded={false}
+            numberOfLines={4}
+            style={
+              Array [
+                Object {
+                  "color": "#E76F51",
+                },
+                Array [
+                  Object {
+                    "fontFamily": "Roboto_700Bold",
+                    "fontSize": 8,
+                  },
+                  Object {
+                    "textAlign": "center",
+                  },
+                ],
+              ]
+            }
+          >
+            Its well-developed
+jaws are powerful
+and capable ofcrushing anything.
+Even its trainer
+must be careful.
+          </Text>
+        </View>
       </View>
     </View>
   </View>
@@ -429,6 +2362,75 @@ exports[`renders the Evolution 1`] = `
             style={
               Array [
                 Object {
+                  "alignItems": "center",
+                  "justifyContent": "center",
+                  "width": 100,
+                },
+                undefined,
+              ]
+            }
+          >
+            <Image
+              resizeMode="cover"
+              source={
+                Object {
+                  "uri": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/158.png",
+                }
+              }
+              style={
+                Object {
+                  "height": 56,
+                  "width": 56,
+                }
+              }
+            />
+            <Text
+              color="#264653"
+              fontsLoaded={false}
+              style={
+                Array [
+                  Object {
+                    "color": "#264653",
+                  },
+                  Array [
+                    Object {
+                      "textAlign": "center",
+                    },
+                    Object {
+                      "fontSize": 10,
+                    },
+                  ],
+                ]
+              }
+            >
+              #158
+            </Text>
+            <Text
+              color="#264653"
+              fontsLoaded={false}
+              style={
+                Array [
+                  Object {
+                    "color": "#264653",
+                  },
+                  Array [
+                    Object {
+                      "textAlign": "center",
+                    },
+                    Object {
+                      "fontSize": 10,
+                    },
+                  ],
+                ]
+              }
+            >
+              totodile
+            </Text>
+          </View>
+          <View
+            style={
+              Array [
+                Object {
                   "flexDirection": "row",
                 },
                 undefined,
@@ -547,6 +2549,75 @@ exports[`renders the Evolution 1`] = `
             style={
               Array [
                 Object {
+                  "alignItems": "center",
+                  "justifyContent": "center",
+                  "width": 100,
+                },
+                undefined,
+              ]
+            }
+          >
+            <Image
+              resizeMode="cover"
+              source={
+                Object {
+                  "uri": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/159.png",
+                }
+              }
+              style={
+                Object {
+                  "height": 56,
+                  "width": 56,
+                }
+              }
+            />
+            <Text
+              color="#264653"
+              fontsLoaded={false}
+              style={
+                Array [
+                  Object {
+                    "color": "#264653",
+                  },
+                  Array [
+                    Object {
+                      "textAlign": "center",
+                    },
+                    Object {
+                      "fontSize": 10,
+                    },
+                  ],
+                ]
+              }
+            >
+              #159
+            </Text>
+            <Text
+              color="#264653"
+              fontsLoaded={false}
+              style={
+                Array [
+                  Object {
+                    "color": "#264653",
+                  },
+                  Array [
+                    Object {
+                      "textAlign": "center",
+                    },
+                    Object {
+                      "fontSize": 10,
+                    },
+                  ],
+                ]
+              }
+            >
+              croconaw
+            </Text>
+          </View>
+          <View
+            style={
+              Array [
+                Object {
                   "flexDirection": "row",
                 },
                 undefined,
@@ -660,7 +2731,77 @@ exports[`renders the Evolution 1`] = `
               undefined,
             ]
           }
-        />
+        >
+          <View
+            style={
+              Array [
+                Object {
+                  "alignItems": "center",
+                  "justifyContent": "center",
+                  "width": 100,
+                },
+                undefined,
+              ]
+            }
+          >
+            <Image
+              resizeMode="cover"
+              source={
+                Object {
+                  "uri": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/160.png",
+                }
+              }
+              style={
+                Object {
+                  "height": 56,
+                  "width": 56,
+                }
+              }
+            />
+            <Text
+              color="#264653"
+              fontsLoaded={false}
+              style={
+                Array [
+                  Object {
+                    "color": "#264653",
+                  },
+                  Array [
+                    Object {
+                      "textAlign": "center",
+                    },
+                    Object {
+                      "fontSize": 10,
+                    },
+                  ],
+                ]
+              }
+            >
+              #160
+            </Text>
+            <Text
+              color="#264653"
+              fontsLoaded={false}
+              style={
+                Array [
+                  Object {
+                    "color": "#264653",
+                  },
+                  Array [
+                    Object {
+                      "textAlign": "center",
+                    },
+                    Object {
+                      "fontSize": 10,
+                    },
+                  ],
+                ]
+              }
+            >
+              feraligatr
+            </Text>
+          </View>
+        </View>
       </View>
     </RCTScrollView>
   </View>

@@ -1,3 +1,18 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`renders Text 1`] = `null`;
+exports[`renders Text 1`] = `
+<Text
+  color="#fff"
+  fontsLoaded={false}
+  style={
+    Array [
+      Object {
+        "color": "#fff",
+      },
+      undefined,
+    ]
+  }
+>
+  Hello
+</Text>
+`;

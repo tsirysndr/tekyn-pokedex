@@ -36,9 +36,29 @@ exports[`renders the SearchForm 1`] = `
       ]
     }
   />
+  <Text
+    color="#8F8F8FDE"
+    fontsLoaded={false}
+    style={
+      Array [
+        Object {
+          "color": "#8F8F8FDE",
+        },
+        Array [
+          Object {
+            "marginBottom": 5,
+            "width": 250,
+          },
+          undefined,
+        ],
+      ]
+    }
+  >
+    POKEMON NAME OR ID
+  </Text>
   <View>
     <TextInput
-      fontsLoaded={true}
+      fontsLoaded={false}
       onChangeText={[Function]}
       placeholder="name or id"
       placeholderTextColor="#fff"
@@ -51,7 +71,6 @@ exports[`renders the SearchForm 1`] = `
             "borderTopLeftRadius": 4,
             "borderTopRightRadius": 4,
             "color": "#000",
-            "fontFamily": "Roboto_700Bold",
             "height": 50,
             "paddingBottom": 10,
             "paddingLeft": 10,
@@ -104,7 +123,28 @@ exports[`renders the SearchForm 1`] = `
           "width": 150,
         }
       }
-    />
+    >
+      <Text
+        color="#fff"
+        fontsLoaded={false}
+        style={
+          Array [
+            Object {
+              "color": "#fff",
+            },
+            Array [
+              Object {
+                "fontFamily": "Roboto_700Bold",
+                "fontSize": 14,
+              },
+              undefined,
+            ],
+          ]
+        }
+      >
+        Search!
+      </Text>
+    </View>
     <View
       accessibilityRole="button"
       accessible={true}

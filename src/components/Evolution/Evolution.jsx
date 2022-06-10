@@ -29,7 +29,7 @@ const ButtonGroup = styled.View`
 
 const Button = styled(DefaultButton)`
   height: 30px;
-  width: 70px;
+  width: 80px;
   border-radius: 10px;
   margin-right: 15px;
 `;

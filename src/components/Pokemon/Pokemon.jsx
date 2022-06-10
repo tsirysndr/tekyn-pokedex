@@ -14,15 +14,16 @@ const Container = styled.View`
 `;
 
 const Text = styled(DefaultText)`
-  font-family: "Roboto_700Bold";
   text-align: center;
+  ${({ fontsLoaded }) =>
+    fontsLoaded &&
+    css`
+      font-family: "Roboto_700Bold";
+    `}
 `;
 
 export default function Pokemon({ id, name, fontSize, size }) {
   const [fontsLoaded] = useFonts({ Roboto_700Bold });
-  if (!fontsLoaded) {
-    return null;
-  }
   const format = (value) => `#${zeropad(value, 3)}`;
   return (
     <Container>
@@ -31,10 +32,10 @@ export default function Pokemon({ id, name, fontSize, size }) {
         resizeMode="cover"
         source={{ uri: `${POKEMON_IMAGE_URL}/${zeropad(id, 3)}.png` }}
       />
-      <Text color="#264653" style={{ fontSize }}>
+      <Text fontsLoaded={fontsLoaded} color="#264653" style={{ fontSize }}>
         {format(id)}
       </Text>
-      <Text color="#264653" style={{ fontSize }}>
+      <Text fontsLoaded={fontsLoaded} color="#264653" style={{ fontSize }}>
         {name}
       </Text>
     </Container>

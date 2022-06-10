@@ -1,3 +1,73 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`renders Pokemon 1`] = `null`;
+exports[`renders Pokemon 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "justifyContent": "center",
+        "width": 100,
+      },
+      undefined,
+    ]
+  }
+>
+  <Image
+    resizeMode="cover"
+    source={
+      Object {
+        "uri": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png",
+      }
+    }
+    style={
+      Object {
+        "height": 56,
+        "width": 56,
+      }
+    }
+  />
+  <Text
+    color="#264653"
+    fontsLoaded={false}
+    style={
+      Array [
+        Object {
+          "color": "#264653",
+        },
+        Array [
+          Object {
+            "textAlign": "center",
+          },
+          Object {
+            "fontSize": 10,
+          },
+        ],
+      ]
+    }
+  >
+    #025
+  </Text>
+  <Text
+    color="#264653"
+    fontsLoaded={false}
+    style={
+      Array [
+        Object {
+          "color": "#264653",
+        },
+        Array [
+          Object {
+            "textAlign": "center",
+          },
+          Object {
+            "fontSize": 10,
+          },
+        ],
+      ]
+    }
+  >
+    Pikachu
+  </Text>
+</View>
+`;

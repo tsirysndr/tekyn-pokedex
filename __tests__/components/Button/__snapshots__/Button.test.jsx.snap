@@ -4,7 +4,7 @@ exports[`renders bug button 1`] = `
 <View
   accessible={true}
   collapsable={false}
-  focusable={true}
+  focusable={false}
   onClick={[Function]}
   onResponderGrant={[Function]}
   onResponderMove={[Function]}
@@ -27,7 +27,18 @@ exports[`renders bug button 1`] = `
     }
   }
 >
-  <Text>
+  <Text
+    color="#fff"
+    fontsLoaded={false}
+    style={
+      Array [
+        Object {
+          "color": "#fff",
+        },
+        undefined,
+      ]
+    }
+  >
     Bug Button
   </Text>
 </View>
@@ -37,7 +48,7 @@ exports[`renders dark button 1`] = `
 <View
   accessible={true}
   collapsable={false}
-  focusable={true}
+  focusable={false}
   onClick={[Function]}
   onResponderGrant={[Function]}
   onResponderMove={[Function]}
@@ -60,7 +71,18 @@ exports[`renders dark button 1`] = `
     }
   }
 >
-  <Text>
+  <Text
+    color="#fff"
+    fontsLoaded={false}
+    style={
+      Array [
+        Object {
+          "color": "#fff",
+        },
+        undefined,
+      ]
+    }
+  >
     Dark Button
   </Text>
 </View>
@@ -70,7 +92,7 @@ exports[`renders default Button 1`] = `
 <View
   accessible={true}
   collapsable={false}
-  focusable={true}
+  focusable={false}
   onClick={[Function]}
   onResponderGrant={[Function]}
   onResponderMove={[Function]}
@@ -93,7 +115,18 @@ exports[`renders default Button 1`] = `
     }
   }
 >
-  <Text>
+  <Text
+    color="#fff"
+    fontsLoaded={false}
+    style={
+      Array [
+        Object {
+          "color": "#fff",
+        },
+        undefined,
+      ]
+    }
+  >
     Default Button
   </Text>
 </View>
@@ -103,7 +136,7 @@ exports[`renders dragon button 1`] = `
 <View
   accessible={true}
   collapsable={false}
-  focusable={true}
+  focusable={false}
   onClick={[Function]}
   onResponderGrant={[Function]}
   onResponderMove={[Function]}
@@ -126,7 +159,18 @@ exports[`renders dragon button 1`] = `
     }
   }
 >
-  <Text>
+  <Text
+    color="#fff"
+    fontsLoaded={false}
+    style={
+      Array [
+        Object {
+          "color": "#fff",
+        },
+        undefined,
+      ]
+    }
+  >
     dragon Button
   </Text>
 </View>
@@ -136,7 +180,7 @@ exports[`renders electric button 1`] = `
 <View
   accessible={true}
   collapsable={false}
-  focusable={true}
+  focusable={false}
   onClick={[Function]}
   onResponderGrant={[Function]}
   onResponderMove={[Function]}
@@ -159,7 +203,18 @@ exports[`renders electric button 1`] = `
     }
   }
 >
-  <Text>
+  <Text
+    color="#fff"
+    fontsLoaded={false}
+    style={
+      Array [
+        Object {
+          "color": "#fff",
+        },
+        undefined,
+      ]
+    }
+  >
     Electric Button
   </Text>
 </View>
@@ -169,7 +224,7 @@ exports[`renders fairy button 1`] = `
 <View
   accessible={true}
   collapsable={false}
-  focusable={true}
+  focusable={false}
   onClick={[Function]}
   onResponderGrant={[Function]}
   onResponderMove={[Function]}
@@ -192,7 +247,18 @@ exports[`renders fairy button 1`] = `
     }
   }
 >
-  <Text>
+  <Text
+    color="#fff"
+    fontsLoaded={false}
+    style={
+      Array [
+        Object {
+          "color": "#fff",
+        },
+        undefined,
+      ]
+    }
+  >
     Fairy Button
   </Text>
 </View>
@@ -202,7 +268,7 @@ exports[`renders fight button 1`] = `
 <View
   accessible={true}
   collapsable={false}
-  focusable={true}
+  focusable={false}
   onClick={[Function]}
   onResponderGrant={[Function]}
   onResponderMove={[Function]}
@@ -225,7 +291,18 @@ exports[`renders fight button 1`] = `
     }
   }
 >
-  <Text>
+  <Text
+    color="#fff"
+    fontsLoaded={false}
+    style={
+      Array [
+        Object {
+          "color": "#fff",
+        },
+        undefined,
+      ]
+    }
+  >
     Flight Button
   </Text>
 </View>
@@ -235,7 +312,7 @@ exports[`renders fire button 1`] = `
 <View
   accessible={true}
   collapsable={false}
-  focusable={true}
+  focusable={false}
   onClick={[Function]}
   onResponderGrant={[Function]}
   onResponderMove={[Function]}
@@ -258,7 +335,18 @@ exports[`renders fire button 1`] = `
     }
   }
 >
-  <Text>
+  <Text
+    color="#fff"
+    fontsLoaded={false}
+    style={
+      Array [
+        Object {
+          "color": "#fff",
+        },
+        undefined,
+      ]
+    }
+  >
     Fire Button
   </Text>
 </View>
@@ -268,7 +356,7 @@ exports[`renders flight button 1`] = `
 <View
   accessible={true}
   collapsable={false}
-  focusable={true}
+  focusable={false}
   onClick={[Function]}
   onResponderGrant={[Function]}
   onResponderMove={[Function]}
@@ -291,7 +379,18 @@ exports[`renders flight button 1`] = `
     }
   }
 >
-  <Text>
+  <Text
+    color="#fff"
+    fontsLoaded={false}
+    style={
+      Array [
+        Object {
+          "color": "#fff",
+        },
+        undefined,
+      ]
+    }
+  >
     Flight Button
   </Text>
 </View>
@@ -301,7 +400,7 @@ exports[`renders ghost button 1`] = `
 <View
   accessible={true}
   collapsable={false}
-  focusable={true}
+  focusable={false}
   onClick={[Function]}
   onResponderGrant={[Function]}
   onResponderMove={[Function]}
@@ -324,7 +423,18 @@ exports[`renders ghost button 1`] = `
     }
   }
 >
-  <Text>
+  <Text
+    color="#fff"
+    fontsLoaded={false}
+    style={
+      Array [
+        Object {
+          "color": "#fff",
+        },
+        undefined,
+      ]
+    }
+  >
     Ghost Button
   </Text>
 </View>
@@ -334,7 +444,7 @@ exports[`renders grass button 1`] = `
 <View
   accessible={true}
   collapsable={false}
-  focusable={true}
+  focusable={false}
   onClick={[Function]}
   onResponderGrant={[Function]}
   onResponderMove={[Function]}
@@ -357,7 +467,18 @@ exports[`renders grass button 1`] = `
     }
   }
 >
-  <Text>
+  <Text
+    color="#fff"
+    fontsLoaded={false}
+    style={
+      Array [
+        Object {
+          "color": "#fff",
+        },
+        undefined,
+      ]
+    }
+  >
     Grass Button
   </Text>
 </View>
@@ -367,7 +488,7 @@ exports[`renders ground button 1`] = `
 <View
   accessible={true}
   collapsable={false}
-  focusable={true}
+  focusable={false}
   onClick={[Function]}
   onResponderGrant={[Function]}
   onResponderMove={[Function]}
@@ -390,7 +511,18 @@ exports[`renders ground button 1`] = `
     }
   }
 >
-  <Text>
+  <Text
+    color="#fff"
+    fontsLoaded={false}
+    style={
+      Array [
+        Object {
+          "color": "#fff",
+        },
+        undefined,
+      ]
+    }
+  >
     Ground Button
   </Text>
 </View>
@@ -400,7 +532,7 @@ exports[`renders ice button 1`] = `
 <View
   accessible={true}
   collapsable={false}
-  focusable={true}
+  focusable={false}
   onClick={[Function]}
   onResponderGrant={[Function]}
   onResponderMove={[Function]}
@@ -423,7 +555,18 @@ exports[`renders ice button 1`] = `
     }
   }
 >
-  <Text>
+  <Text
+    color="#fff"
+    fontsLoaded={false}
+    style={
+      Array [
+        Object {
+          "color": "#fff",
+        },
+        undefined,
+      ]
+    }
+  >
     Ice Button
   </Text>
 </View>
@@ -433,7 +576,7 @@ exports[`renders normal button 1`] = `
 <View
   accessible={true}
   collapsable={false}
-  focusable={true}
+  focusable={false}
   onClick={[Function]}
   onResponderGrant={[Function]}
   onResponderMove={[Function]}
@@ -456,7 +599,18 @@ exports[`renders normal button 1`] = `
     }
   }
 >
-  <Text>
+  <Text
+    color="#fff"
+    fontsLoaded={false}
+    style={
+      Array [
+        Object {
+          "color": "#fff",
+        },
+        undefined,
+      ]
+    }
+  >
     Normal Button
   </Text>
 </View>
@@ -466,7 +620,7 @@ exports[`renders poison button 1`] = `
 <View
   accessible={true}
   collapsable={false}
-  focusable={true}
+  focusable={false}
   onClick={[Function]}
   onResponderGrant={[Function]}
   onResponderMove={[Function]}
@@ -489,7 +643,18 @@ exports[`renders poison button 1`] = `
     }
   }
 >
-  <Text>
+  <Text
+    color="#fff"
+    fontsLoaded={false}
+    style={
+      Array [
+        Object {
+          "color": "#fff",
+        },
+        undefined,
+      ]
+    }
+  >
     Poison Button
   </Text>
 </View>
@@ -499,7 +664,7 @@ exports[`renders psychic button 1`] = `
 <View
   accessible={true}
   collapsable={false}
-  focusable={true}
+  focusable={false}
   onClick={[Function]}
   onResponderGrant={[Function]}
   onResponderMove={[Function]}
@@ -522,7 +687,18 @@ exports[`renders psychic button 1`] = `
     }
   }
 >
-  <Text>
+  <Text
+    color="#fff"
+    fontsLoaded={false}
+    style={
+      Array [
+        Object {
+          "color": "#fff",
+        },
+        undefined,
+      ]
+    }
+  >
     Psychic Button
   </Text>
 </View>
@@ -532,7 +708,7 @@ exports[`renders rock button 1`] = `
 <View
   accessible={true}
   collapsable={false}
-  focusable={true}
+  focusable={false}
   onClick={[Function]}
   onResponderGrant={[Function]}
   onResponderMove={[Function]}
@@ -555,7 +731,18 @@ exports[`renders rock button 1`] = `
     }
   }
 >
-  <Text>
+  <Text
+    color="#fff"
+    fontsLoaded={false}
+    style={
+      Array [
+        Object {
+          "color": "#fff",
+        },
+        undefined,
+      ]
+    }
+  >
     Rock Button
   </Text>
 </View>
@@ -565,7 +752,7 @@ exports[`renders steel button 1`] = `
 <View
   accessible={true}
   collapsable={false}
-  focusable={true}
+  focusable={false}
   onClick={[Function]}
   onResponderGrant={[Function]}
   onResponderMove={[Function]}
@@ -588,7 +775,18 @@ exports[`renders steel button 1`] = `
     }
   }
 >
-  <Text>
+  <Text
+    color="#fff"
+    fontsLoaded={false}
+    style={
+      Array [
+        Object {
+          "color": "#fff",
+        },
+        undefined,
+      ]
+    }
+  >
     Steel Button
   </Text>
 </View>
@@ -598,7 +796,7 @@ exports[`renders water button 1`] = `
 <View
   accessible={true}
   collapsable={false}
-  focusable={true}
+  focusable={false}
   onClick={[Function]}
   onResponderGrant={[Function]}
   onResponderMove={[Function]}
@@ -621,7 +819,18 @@ exports[`renders water button 1`] = `
     }
   }
 >
-  <Text>
+  <Text
+    color="#fff"
+    fontsLoaded={false}
+    style={
+      Array [
+        Object {
+          "color": "#fff",
+        },
+        undefined,
+      ]
+    }
+  >
     Water Button
   </Text>
 </View>

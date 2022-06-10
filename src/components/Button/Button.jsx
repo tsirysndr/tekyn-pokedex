@@ -1,7 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
-import styled from "@emotion/native";
-import Text from "@Components/Text";
+import styled, { css } from "@emotion/native";
+import DefaultText from "@Components/Text";
 import { useFonts, Roboto_700Bold } from "@expo-google-fonts/roboto";
 
 const Container = styled.TouchableOpacity`
@@ -13,25 +13,26 @@ const Container = styled.TouchableOpacity`
   align-items: center;
 `;
 
+const Text = styled(DefaultText)`
+  font-size: 14px;
+  ${({ fontsLoaded }) =>
+    fontsLoaded &&
+    css`
+      font-family: "Roboto_700Bold";
+    `}
+`;
+
 export const ButtonText = ({ children }) => {
   const [fontsLoaded] = useFonts({ Roboto_700Bold });
-  if (!fontsLoaded) {
-    return null;
-  }
-  return <Text style={{ fontFamily: "Roboto_700Bold", fontSize: 14 }}>{children}</Text>
+  return <Text fontsLoaded>{children}</Text>;
 };
 
 export default function Button(props) {
-  return (
-    <Container {...props}>
-      {props.children}
-    </Container>
-  );
+  return <Container {...props}>{props.children}</Container>;
 }
 
 Button.defaultProps = {
   children: null,
-  onPress: () => {},
   color: "default",
 };
 

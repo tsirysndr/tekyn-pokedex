@@ -12,7 +12,7 @@ const TextInput = styled.TextInput`
   border-radius: 4px;
   color: #000;
   padding: 10px;
-  ${({ fontsLoaded }) => css`
+  ${({ fontsLoaded }) => fontsLoaded && css`
     font-family: "Roboto_700Bold";
   `}
 `;
@@ -27,7 +27,7 @@ export default function TextField({ name, control, placeholder }) {
   return (
     <View>
       <TextInput
-        fontsLoaded
+        fontsLoaded={fontsLoaded}
         placeholder={placeholder}
         placeholderTextColor={"#fff"}
         value={field.value}

@@ -8,12 +8,16 @@ import BackIcon from "@Components/BackIcon";
 import _ from "lodash";
 
 const Text = styled(DefaultText)`
-  font-family: "Roboto_700Bold";
   font-size: 16px;
   color: #264653;
   flex: 1;
   text-align: center;
   margin-right: 50px;
+  ${({ fontsLoaded }) =>
+    fontsLoaded &&
+    css`
+      font-family: "Roboto_700Bold";
+    `}
 `;
 
 const Container = styled.View`
@@ -42,16 +46,13 @@ const BackButton = styled.TouchableOpacity`
 
 export default function Header({ title, onGoBack, backgroundColor }) {
   const [fontsLoaded] = useFonts({ Roboto_700Bold });
-  if (!fontsLoaded) {
-    return null;
-  }
   return (
     <>
       <Container backgroundColor={backgroundColor}>
         <BackButton onPress={onGoBack}>
           <BackIcon height={20} width={20} />
         </BackButton>
-        <Text>{_.capitalize(title)}</Text>
+        <Text fontsLoaded>{_.capitalize(title)}</Text>
       </Container>
       <Separator />
     </>

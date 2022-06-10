@@ -31,7 +31,1586 @@ exports[`renders Stats 1`] = `
         undefined,
       ]
     }
-  />
+  >
+    <View
+      style={
+        Object {
+          "flex": 1,
+        }
+      }
+    >
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+    </View>
+    <View
+      style={
+        Object {
+          "flex": 1,
+        }
+      }
+    >
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+    </View>
+    <View
+      style={
+        Object {
+          "flex": 1,
+        }
+      }
+    >
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+    </View>
+    <View
+      style={
+        Object {
+          "flex": 1,
+        }
+      }
+    >
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+    </View>
+    <View
+      style={
+        Object {
+          "flex": 1,
+        }
+      }
+    >
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+    </View>
+    <View
+      style={
+        Object {
+          "flex": 1,
+        }
+      }
+    >
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        active={false}
+        style={
+          Array [
+            Object {
+              "borderBottomColor": "#c4c4c4",
+              "borderBottomWidth": 0.5,
+              "borderRightColor": "#c4c4c4",
+              "borderRightWidth": 0.2,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ]
+        }
+      />
+    </View>
+  </View>
   <View
     style={
       Array [
@@ -56,7 +1635,27 @@ exports[`renders Stats 1`] = `
           undefined,
         ]
       }
-    />
+    >
+      <Text
+        color="#000"
+        fontsLoaded={false}
+        style={
+          Array [
+            Object {
+              "color": "#000",
+            },
+            Array [
+              Object {
+                "fontSize": 6,
+              },
+              undefined,
+            ],
+          ]
+        }
+      >
+        HP
+      </Text>
+    </View>
     <View
       style={
         Array [
@@ -71,7 +1670,27 @@ exports[`renders Stats 1`] = `
           undefined,
         ]
       }
-    />
+    >
+      <Text
+        color="#000"
+        fontsLoaded={false}
+        style={
+          Array [
+            Object {
+              "color": "#000",
+            },
+            Array [
+              Object {
+                "fontSize": 6,
+              },
+              undefined,
+            ],
+          ]
+        }
+      >
+        Atack
+      </Text>
+    </View>
     <View
       style={
         Array [
@@ -86,7 +1705,27 @@ exports[`renders Stats 1`] = `
           undefined,
         ]
       }
-    />
+    >
+      <Text
+        color="#000"
+        fontsLoaded={false}
+        style={
+          Array [
+            Object {
+              "color": "#000",
+            },
+            Array [
+              Object {
+                "fontSize": 6,
+              },
+              undefined,
+            ],
+          ]
+        }
+      >
+        Defense
+      </Text>
+    </View>
     <View
       style={
         Array [
@@ -101,7 +1740,27 @@ exports[`renders Stats 1`] = `
           undefined,
         ]
       }
-    />
+    >
+      <Text
+        color="#000"
+        fontsLoaded={false}
+        style={
+          Array [
+            Object {
+              "color": "#000",
+            },
+            Array [
+              Object {
+                "fontSize": 6,
+              },
+              undefined,
+            ],
+          ]
+        }
+      >
+        Spe A
+      </Text>
+    </View>
     <View
       style={
         Array [
@@ -116,7 +1775,27 @@ exports[`renders Stats 1`] = `
           undefined,
         ]
       }
-    />
+    >
+      <Text
+        color="#000"
+        fontsLoaded={false}
+        style={
+          Array [
+            Object {
+              "color": "#000",
+            },
+            Array [
+              Object {
+                "fontSize": 6,
+              },
+              undefined,
+            ],
+          ]
+        }
+      >
+        Spe D
+      </Text>
+    </View>
     <View
       style={
         Array [
@@ -131,7 +1810,27 @@ exports[`renders Stats 1`] = `
           undefined,
         ]
       }
-    />
+    >
+      <Text
+        color="#000"
+        fontsLoaded={false}
+        style={
+          Array [
+            Object {
+              "color": "#000",
+            },
+            Array [
+              Object {
+                "fontSize": 6,
+              },
+              undefined,
+            ],
+          ]
+        }
+      >
+        Speed
+      </Text>
+    </View>
   </View>
 </View>
 `;

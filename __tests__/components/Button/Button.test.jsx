@@ -1,8 +1,8 @@
 import { render, waitFor } from "@testing-library/react-native";
 import Button from "@Components/Button";
-import { Text } from "react-native";
 import { ThemeProvider } from "@emotion/react";
 import { theme } from "@Themes/default";
+import Text from "@Components/Text";
 
 test("renders default Button", () => {
   const tree = render(
