@@ -70,7 +70,7 @@ test("search pokemon by id", async () => {
   fireEvent.press(buttons[0]);
   await waitFor(() =>
     expect(spy).toBeCalledWith(
-      _.get(mocks[3].result.data, "pokemon_v2_pokemon", [])
+      _.get(mocks[3].result.data, "pokemon_v2_pokemon")
     )
   );
 });
