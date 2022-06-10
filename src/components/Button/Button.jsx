@@ -2,10 +2,10 @@ import React from "react";
 import PropTypes from "prop-types";
 import styled from "@emotion/native";
 import Text from "@Components/Text";
-import { useFonts, Roboto_700Bold } from '@expo-google-fonts/roboto';
+import { useFonts, Roboto_700Bold } from "@expo-google-fonts/roboto";
 
 const Container = styled.TouchableOpacity`
-  background-color: ${props => props.theme.colors[props.color]};
+  background-color: ${(props) => props.theme.colors[props.color]};
   border-radius: 20px;
   width: 120px;
   height: 60px;
@@ -13,17 +13,20 @@ const Container = styled.TouchableOpacity`
   align-items: center;
 `;
 
-export const ButtonText = styled(Text)`
-  font-family: 'Roboto_700Bold';
-  font-size: 16px;
-`;
-
-export default function Button(props) {
+export const ButtonText = ({ children }) => {
   const [fontsLoaded] = useFonts({ Roboto_700Bold });
   if (!fontsLoaded) {
     return null;
   }
-  return <Container {...props}>{props.children}</Container>;
+  return <Text style={{ fontFamily: "Roboto_700Bold", fontSize: 14 }}>{children}</Text>
+};
+
+export default function Button(props) {
+  return (
+    <Container {...props}>
+      {props.children}
+    </Container>
+  );
 }
 
 Button.defaultProps = {

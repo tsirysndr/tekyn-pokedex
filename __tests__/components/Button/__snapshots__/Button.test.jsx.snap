@@ -1,3 +1,628 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`renders the Button 1`] = `null`;
+exports[`renders bug button 1`] = `
+<View
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#A8B732",
+      "borderBottomLeftRadius": 20,
+      "borderBottomRightRadius": 20,
+      "borderTopLeftRadius": 20,
+      "borderTopRightRadius": 20,
+      "height": 60,
+      "justifyContent": "center",
+      "opacity": 1,
+      "width": 120,
+    }
+  }
+>
+  <Text>
+    Bug Button
+  </Text>
+</View>
+`;
+
+exports[`renders dark button 1`] = `
+<View
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#705849",
+      "borderBottomLeftRadius": 20,
+      "borderBottomRightRadius": 20,
+      "borderTopLeftRadius": 20,
+      "borderTopRightRadius": 20,
+      "height": 60,
+      "justifyContent": "center",
+      "opacity": 1,
+      "width": 120,
+    }
+  }
+>
+  <Text>
+    Dark Button
+  </Text>
+</View>
+`;
+
+exports[`renders default Button 1`] = `
+<View
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#F4A261",
+      "borderBottomLeftRadius": 20,
+      "borderBottomRightRadius": 20,
+      "borderTopLeftRadius": 20,
+      "borderTopRightRadius": 20,
+      "height": 60,
+      "justifyContent": "center",
+      "opacity": 1,
+      "width": 120,
+    }
+  }
+>
+  <Text>
+    Default Button
+  </Text>
+</View>
+`;
+
+exports[`renders dragon button 1`] = `
+<View
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#7043F4",
+      "borderBottomLeftRadius": 20,
+      "borderBottomRightRadius": 20,
+      "borderTopLeftRadius": 20,
+      "borderTopRightRadius": 20,
+      "height": 60,
+      "justifyContent": "center",
+      "opacity": 1,
+      "width": 120,
+    }
+  }
+>
+  <Text>
+    dragon Button
+  </Text>
+</View>
+`;
+
+exports[`renders electric button 1`] = `
+<View
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#F7CF43",
+      "borderBottomLeftRadius": 20,
+      "borderBottomRightRadius": 20,
+      "borderTopLeftRadius": 20,
+      "borderTopRightRadius": 20,
+      "height": 60,
+      "justifyContent": "center",
+      "opacity": 1,
+      "width": 120,
+    }
+  }
+>
+  <Text>
+    Electric Button
+  </Text>
+</View>
+`;
+
+exports[`renders fairy button 1`] = `
+<View
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#EFB7BD",
+      "borderBottomLeftRadius": 20,
+      "borderBottomRightRadius": 20,
+      "borderTopLeftRadius": 20,
+      "borderTopRightRadius": 20,
+      "height": 60,
+      "justifyContent": "center",
+      "opacity": 1,
+      "width": 120,
+    }
+  }
+>
+  <Text>
+    Fairy Button
+  </Text>
+</View>
+`;
+
+exports[`renders fight button 1`] = `
+<View
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#BE322E",
+      "borderBottomLeftRadius": 20,
+      "borderBottomRightRadius": 20,
+      "borderTopLeftRadius": 20,
+      "borderTopRightRadius": 20,
+      "height": 60,
+      "justifyContent": "center",
+      "opacity": 1,
+      "width": 120,
+    }
+  }
+>
+  <Text>
+    Flight Button
+  </Text>
+</View>
+`;
+
+exports[`renders fire button 1`] = `
+<View
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#EE803B",
+      "borderBottomLeftRadius": 20,
+      "borderBottomRightRadius": 20,
+      "borderTopLeftRadius": 20,
+      "borderTopRightRadius": 20,
+      "height": 60,
+      "justifyContent": "center",
+      "opacity": 1,
+      "width": 120,
+    }
+  }
+>
+  <Text>
+    Fire Button
+  </Text>
+</View>
+`;
+
+exports[`renders flight button 1`] = `
+<View
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#A893ED",
+      "borderBottomLeftRadius": 20,
+      "borderBottomRightRadius": 20,
+      "borderTopLeftRadius": 20,
+      "borderTopRightRadius": 20,
+      "height": 60,
+      "justifyContent": "center",
+      "opacity": 1,
+      "width": 120,
+    }
+  }
+>
+  <Text>
+    Flight Button
+  </Text>
+</View>
+`;
+
+exports[`renders ghost button 1`] = `
+<View
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#705A97",
+      "borderBottomLeftRadius": 20,
+      "borderBottomRightRadius": 20,
+      "borderTopLeftRadius": 20,
+      "borderTopRightRadius": 20,
+      "height": 60,
+      "justifyContent": "center",
+      "opacity": 1,
+      "width": 120,
+    }
+  }
+>
+  <Text>
+    Ghost Button
+  </Text>
+</View>
+`;
+
+exports[`renders grass button 1`] = `
+<View
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#7BC757",
+      "borderBottomLeftRadius": 20,
+      "borderBottomRightRadius": 20,
+      "borderTopLeftRadius": 20,
+      "borderTopRightRadius": 20,
+      "height": 60,
+      "justifyContent": "center",
+      "opacity": 1,
+      "width": 120,
+    }
+  }
+>
+  <Text>
+    Grass Button
+  </Text>
+</View>
+`;
+
+exports[`renders ground button 1`] = `
+<View
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#DFBF6E",
+      "borderBottomLeftRadius": 20,
+      "borderBottomRightRadius": 20,
+      "borderTopLeftRadius": 20,
+      "borderTopRightRadius": 20,
+      "height": 60,
+      "justifyContent": "center",
+      "opacity": 1,
+      "width": 120,
+    }
+  }
+>
+  <Text>
+    Ground Button
+  </Text>
+</View>
+`;
+
+exports[`renders ice button 1`] = `
+<View
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#9AD8D8",
+      "borderBottomLeftRadius": 20,
+      "borderBottomRightRadius": 20,
+      "borderTopLeftRadius": 20,
+      "borderTopRightRadius": 20,
+      "height": 60,
+      "justifyContent": "center",
+      "opacity": 1,
+      "width": 120,
+    }
+  }
+>
+  <Text>
+    Ice Button
+  </Text>
+</View>
+`;
+
+exports[`renders normal button 1`] = `
+<View
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#EE803B",
+      "borderBottomLeftRadius": 20,
+      "borderBottomRightRadius": 20,
+      "borderTopLeftRadius": 20,
+      "borderTopRightRadius": 20,
+      "height": 60,
+      "justifyContent": "center",
+      "opacity": 1,
+      "width": 120,
+    }
+  }
+>
+  <Text>
+    Normal Button
+  </Text>
+</View>
+`;
+
+exports[`renders poison button 1`] = `
+<View
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#9B4A99",
+      "borderBottomLeftRadius": 20,
+      "borderBottomRightRadius": 20,
+      "borderTopLeftRadius": 20,
+      "borderTopRightRadius": 20,
+      "height": 60,
+      "justifyContent": "center",
+      "opacity": 1,
+      "width": 120,
+    }
+  }
+>
+  <Text>
+    Poison Button
+  </Text>
+</View>
+`;
+
+exports[`renders psychic button 1`] = `
+<View
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#EC5B89",
+      "borderBottomLeftRadius": 20,
+      "borderBottomRightRadius": 20,
+      "borderTopLeftRadius": 20,
+      "borderTopRightRadius": 20,
+      "height": 60,
+      "justifyContent": "center",
+      "opacity": 1,
+      "width": 120,
+    }
+  }
+>
+  <Text>
+    Psychic Button
+  </Text>
+</View>
+`;
+
+exports[`renders rock button 1`] = `
+<View
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#B89F41",
+      "borderBottomLeftRadius": 20,
+      "borderBottomRightRadius": 20,
+      "borderTopLeftRadius": 20,
+      "borderTopRightRadius": 20,
+      "height": 60,
+      "justifyContent": "center",
+      "opacity": 1,
+      "width": 120,
+    }
+  }
+>
+  <Text>
+    Rock Button
+  </Text>
+</View>
+`;
+
+exports[`renders steel button 1`] = `
+<View
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#B8B9CF",
+      "borderBottomLeftRadius": 20,
+      "borderBottomRightRadius": 20,
+      "borderTopLeftRadius": 20,
+      "borderTopRightRadius": 20,
+      "height": 60,
+      "justifyContent": "center",
+      "opacity": 1,
+      "width": 120,
+    }
+  }
+>
+  <Text>
+    Steel Button
+  </Text>
+</View>
+`;
+
+exports[`renders water button 1`] = `
+<View
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#6A92ED",
+      "borderBottomLeftRadius": 20,
+      "borderBottomRightRadius": 20,
+      "borderTopLeftRadius": 20,
+      "borderTopRightRadius": 20,
+      "height": 60,
+      "justifyContent": "center",
+      "opacity": 1,
+      "width": 120,
+    }
+  }
+>
+  <Text>
+    Water Button
+  </Text>
+</View>
+`;

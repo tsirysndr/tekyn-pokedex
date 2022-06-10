@@ -275,7 +275,35 @@ exports[`renders the Evolution 1`] = `
             undefined,
           ]
         }
-      />
+      >
+        <View
+          accessible={true}
+          collapsable={false}
+          focusable={true}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "#6A92ED",
+              "borderBottomLeftRadius": 10,
+              "borderBottomRightRadius": 10,
+              "borderTopLeftRadius": 10,
+              "borderTopRightRadius": 10,
+              "height": 30,
+              "justifyContent": "center",
+              "marginRight": 15,
+              "opacity": 1,
+              "width": 70,
+            }
+          }
+        />
+      </View>
     </View>
     <View
       style={
