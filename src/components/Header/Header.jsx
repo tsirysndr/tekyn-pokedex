@@ -61,11 +61,10 @@ export default function Header({ title, onGoBack, backgroundColor }) {
 
 Header.defaultProps = {
   title: "",
-  onGoBack: () => {},
 };
 
 Header.propTypes = {
   backgroundColor: PropTypes.string,
   title: PropTypes.string.isRequired,
-  onGoBack: PropTypes.func,
+  onGoBack: PropTypes.func.isRequired,
 };
