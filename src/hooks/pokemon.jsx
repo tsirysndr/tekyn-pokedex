@@ -5,10 +5,10 @@ import _ from "lodash-contrib";
 export function usePokemon() {
   const [getPokemon, { loading }] = useLazyQuery(SEARCH_POKEMON);
 
-  const getRandomPokemon = async () => {
+  const getRandomPokemon = async (min = 1, max = 898) => {
     const { data } = await getPokemon({
       variables: {
-        id: _.random(1, 898),
+        id: _.random(min, max),
         name: "",
       },
     });
