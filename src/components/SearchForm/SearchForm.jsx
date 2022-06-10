@@ -93,12 +93,10 @@ export default function SearchForm({ onSearch, onShufflePokemon, loading }) {
 
 SearchForm.defaultProps = {
   loading: false,
-  onSearch: () => {},
-  onShufflePokemon: () => {},
 };
 
 SearchForm.propTypes = {
   loading: PropTypes.bool,
-  onSearch: PropTypes.func,
-  onShufflePokemon: PropTypes.func,
+  onSearch: PropTypes.func.isRequired,
+  onShufflePokemon: PropTypes.func.isRequired,
 };

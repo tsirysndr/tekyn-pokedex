@@ -10,4 +10,6 @@ storiesOf("SearchForm", module)
     <ThemeProvider theme={theme}>{getStory()}</ThemeProvider>
   ))
   .addDecorator((getStory) => <CenterView>{getStory()}</CenterView>)
-  .add("default", () => <SearchForm />);
+  .add("default", () => (
+    <SearchForm onSearch={() => {}} onShufflePokemon={() => {}} />
+  ));
