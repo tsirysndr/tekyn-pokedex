@@ -66,12 +66,22 @@ export default function SearchForm({ onSearch, onShufflePokemon, loading }) {
         <>
           <PokeballImage source={Pokeball} />
           <Label color="#8F8F8FDE">POKEMON NAME OR ID</Label>
-          <TextField name="nameOrId" control={control} />
+          <TextField
+            name="nameOrId"
+            control={control}
+            placeholder="name or id"
+          />
           <ButtonGroup>
-            <SearchButton onPress={handleSubmit(_onSearch)}>
+            <SearchButton
+              onPress={handleSubmit(_onSearch)}
+              accessibilityRole="button"
+            >
               <ButtonText>Search!</ButtonText>
             </SearchButton>
-            <RandomButton onPress={_onShufflePokemon}>
+            <RandomButton
+              onPress={_onShufflePokemon}
+              accessibilityRole="button"
+            >
               <ShuffleIcon />
             </RandomButton>
           </ButtonGroup>

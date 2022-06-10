@@ -36,6 +36,35 @@ exports[`renders the SearchForm 1`] = `
       ]
     }
   />
+  <View>
+    <TextInput
+      fontsLoaded={true}
+      onChangeText={[Function]}
+      placeholder="name or id"
+      placeholderTextColor="#fff"
+      style={
+        Array [
+          Object {
+            "backgroundColor": "#fff",
+            "borderBottomLeftRadius": 4,
+            "borderBottomRightRadius": 4,
+            "borderTopLeftRadius": 4,
+            "borderTopRightRadius": 4,
+            "color": "#000",
+            "fontFamily": "Roboto_700Bold",
+            "height": 50,
+            "paddingBottom": 10,
+            "paddingLeft": 10,
+            "paddingRight": 10,
+            "paddingTop": 10,
+            "width": 250,
+          },
+          undefined,
+        ]
+      }
+      value=""
+    />
+  </View>
   <View
     style={
       Array [
@@ -50,6 +79,7 @@ exports[`renders the SearchForm 1`] = `
     }
   >
     <View
+      accessibilityRole="button"
       accessible={true}
       collapsable={false}
       focusable={true}
@@ -76,6 +106,7 @@ exports[`renders the SearchForm 1`] = `
       }
     />
     <View
+      accessibilityRole="button"
       accessible={true}
       collapsable={false}
       focusable={true}

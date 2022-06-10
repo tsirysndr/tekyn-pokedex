@@ -1,3 +1,32 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`renders TextField 1`] = `null`;
+exports[`renders TextField 1`] = `
+<View>
+  <TextInput
+    fontsLoaded={true}
+    onChangeText={[Function]}
+    placeholderTextColor="#fff"
+    style={
+      Array [
+        Object {
+          "backgroundColor": "#fff",
+          "borderBottomLeftRadius": 4,
+          "borderBottomRightRadius": 4,
+          "borderTopLeftRadius": 4,
+          "borderTopRightRadius": 4,
+          "color": "#000",
+          "fontFamily": "Roboto_700Bold",
+          "height": 50,
+          "paddingBottom": 10,
+          "paddingLeft": 10,
+          "paddingRight": 10,
+          "paddingTop": 10,
+          "width": 250,
+        },
+        undefined,
+      ]
+    }
+    value=""
+  />
+</View>
+`;
