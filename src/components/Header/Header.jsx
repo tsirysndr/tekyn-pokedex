@@ -52,7 +52,7 @@ export default function Header({ title, onGoBack, backgroundColor }) {
         <BackButton onPress={onGoBack}>
           <BackIcon height={20} width={20} />
         </BackButton>
-        <Text fontsLoaded>{_.capitalize(title)}</Text>
+        <Text fontsLoaded={fontsLoaded}>{_.capitalize(title)}</Text>
       </Container>
       <Separator />
     </>

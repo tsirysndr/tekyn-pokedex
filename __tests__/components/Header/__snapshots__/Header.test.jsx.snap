@@ -98,7 +98,6 @@ Array [
               "flexBasis": 0,
               "flexGrow": 1,
               "flexShrink": 1,
-              "fontFamily": "Roboto_700Bold",
               "fontSize": 16,
               "marginRight": 50,
               "textAlign": "center",
@@ -108,7 +107,133 @@ Array [
         ]
       }
     >
-      
+      Pikachu #025
+    </Text>
+  </View>,
+  <View
+    style={
+      Array [
+        Object {
+          "backgroundColor": "#f4a261",
+          "height": 1,
+        },
+        undefined,
+      ]
+    }
+  />,
+]
+`;
+
+exports[`renders the Header with white background 1`] = `
+Array [
+  <View
+    backgroundColor="#fff"
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#fff",
+          "flexDirection": "row",
+          "height": 50,
+          "justifyContent": "center",
+        },
+        undefined,
+      ]
+    }
+  >
+    <View
+      accessible={true}
+      collapsable={false}
+      focusable={false}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "height": 50,
+          "justifyContent": "center",
+          "opacity": 1,
+          "width": 50,
+        }
+      }
+    >
+      <RNSVGSvgView
+        align="xMidYMid"
+        bbHeight={20}
+        bbWidth={20}
+        fill="none"
+        focusable={false}
+        height={20}
+        meetOrSlice={0}
+        minX={0}
+        minY={0}
+        style={
+          Array [
+            Object {
+              "backgroundColor": "transparent",
+              "borderWidth": 0,
+            },
+            Object {
+              "flex": 0,
+              "height": 20,
+              "width": 20,
+            },
+          ]
+        }
+        vbHeight={40}
+        vbWidth={24}
+        width={20}
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <RNSVGGroup
+          fill={null}
+          propList={
+            Array [
+              "fill",
+            ]
+          }
+        >
+          <RNSVGPath
+            d="M1.129 17.157c.203-.202.423-.373.655-.521L17.286 1.134a3.876 3.876 0 0 1 5.48 5.48L9.413 19.964l13.42 13.422a3.874 3.874 0 0 1-5.478 5.479L1.784 23.29a3.85 3.85 0 0 1-.655-.522A3.85 3.85 0 0 1 0 19.963a3.852 3.852 0 0 1 1.128-2.806Z"
+            fill={4280698451}
+            propList={
+              Array [
+                "fill",
+              ]
+            }
+          />
+        </RNSVGGroup>
+      </RNSVGSvgView>
+    </View>
+    <Text
+      color="#fff"
+      fontsLoaded={false}
+      style={
+        Array [
+          Object {
+            "color": "#fff",
+          },
+          Array [
+            Object {
+              "color": "#264653",
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+              "fontSize": 16,
+              "marginRight": 50,
+              "textAlign": "center",
+            },
+            undefined,
+          ],
+        ]
+      }
+    >
+      Pikachu #025
     </Text>
   </View>,
   <View
