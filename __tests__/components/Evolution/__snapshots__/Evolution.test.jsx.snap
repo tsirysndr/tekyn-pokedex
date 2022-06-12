@@ -2041,7 +2041,6 @@ exports[`renders the Evolution 1`] = `
                 },
                 Array [
                   Object {
-                    "fontFamily": "Roboto_700Bold",
                     "fontSize": 14,
                   },
                   undefined,

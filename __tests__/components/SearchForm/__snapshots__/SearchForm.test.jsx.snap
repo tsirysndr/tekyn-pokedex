@@ -134,7 +134,6 @@ exports[`renders the SearchForm 1`] = `
             },
             Array [
               Object {
-                "fontFamily": "Roboto_700Bold",
                 "fontSize": 14,
               },
               undefined,
