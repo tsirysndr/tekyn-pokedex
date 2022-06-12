@@ -24,7 +24,7 @@ const Text = styled(DefaultText)`
 
 export const ButtonText = ({ children }) => {
   const [fontsLoaded] = useFonts({ Roboto_700Bold });
-  return <Text fontsLoaded>{children}</Text>;
+  return <Text fontsLoaded={fontsLoaded}>{children}</Text>;
 };
 
 export default function Button(props) {
